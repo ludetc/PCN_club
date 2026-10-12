@@ -27,9 +27,9 @@
         <!-- Schedule Image Card -->
         <div class="mt-12 flex justify-center">
             <div class="group relative w-full max-w-5xl overflow-hidden rounded-3xl border border-white/10 bg-navy-900/80 p-2 shadow-2xl backdrop-blur ring-1 ring-white/10 sm:p-4 transition duration-300 hover:border-blue-500/30">
-                <a href="/documents/pcn-horaires-sept-2026.jpeg" target="_blank" rel="noopener noreferrer" class="block overflow-hidden rounded-2xl cursor-zoom-in" title="{{ __('Click to enlarge') }}">
+                <a href="/documents/pcn-horaires-oct-2026.png" target="_blank" rel="noopener noreferrer" class="block overflow-hidden rounded-2xl cursor-zoom-in" title="{{ __('Click to enlarge') }}">
                     <img
-                        src="/documents/pcn-horaires-sept-2026.jpeg"
+                        src="/documents/pcn-horaires-oct-2026.png"
                         alt="Planning Hebdomadaire - Pugilist Club Niçois"
                         class="w-full h-auto rounded-2xl object-contain transition duration-500 group-hover:scale-[1.01]"
                         loading="eager"
@@ -43,7 +43,7 @@
                         {{ __('Season 2026 / 2027') }}
                     </span>
                     <div class="flex items-center gap-3">
-                        <a href="/documents/pcn-horaires-sept-2026.jpeg" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 rounded-lg bg-white/10 px-3 py-1.5 text-white transition hover:bg-white/20">
+                        <a href="/documents/pcn-horaires-oct-2026.png" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 rounded-lg bg-white/10 px-3 py-1.5 text-white transition hover:bg-white/20">
                             <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6" />
                                 <polyline points="15 3 21 3 21 9" />
@@ -51,7 +51,7 @@
                             </svg>
                             {{ __('Open full size') }}
                         </a>
-                        <a href="/documents/pcn-horaires-sept-2026.jpeg" download="pcn-horaires-2026-2027.jpeg" class="inline-flex items-center gap-1.5 rounded-lg bg-blue-600/80 px-3 py-1.5 text-white transition hover:bg-blue-600">
+                        <a href="/documents/pcn-horaires-oct-2026.png" download="pcn-horaires-2026-2027.png" class="inline-flex items-center gap-1.5 rounded-lg bg-blue-600/80 px-3 py-1.5 text-white transition hover:bg-blue-600">
                             <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4" />
                                 <polyline points="7 10 12 15 17 10" />
